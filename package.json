@@ -1,0 +1,11 @@
+{
+  "name": "unconfig-repro",
+  "type": "module",
+  "scripts": {
+    "upd": "pnpm dlx taze@latest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "taze": "19.9.0"
+  }
+}
